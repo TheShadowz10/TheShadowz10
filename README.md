@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheShadowz10
 - 👀 I’m interested in sports, coding, video games, and food.
-- 🌱 I’m currently learning Javascript on Codecademy.
+- 🌱 I’m currently learning HTML and Javascript on Codecademy.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
   by email bbacal9@hotmail.com
