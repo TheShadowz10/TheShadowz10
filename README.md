@@ -2,8 +2,8 @@
 - 👀 I’m interested in sports, coding, video games, and food.
 - 🌱 I’m currently learning HTML and Javascript on Codecademy.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: 
-  by email bbacal9@hotmail.com
+- 📫 How to reach me: bbacal9@hotmail.com
+  
 
 <!---
 TheShadowz10/TheShadowz10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
